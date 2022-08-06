@@ -1,0 +1,32 @@
+form{
+    margin-top: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10vh;
+    background-color: #8A90D1;
+    width: 50%;
+    padding: 4vh;
+    z-index: 3;
+    border-radius: 5px;
+}
+
+h3{
+    padding: 1vh;
+}
+
+form h3, .input, #button{
+    text-align: center;
+}
+
+.input input{
+    width: 60%;
+    padding: 3vh;
+}
+
+#button input{
+    padding: 2vh;
+}
+
+ul{
+    font-size: 11pt;
+}

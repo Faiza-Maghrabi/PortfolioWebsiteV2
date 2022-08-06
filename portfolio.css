@@ -1,0 +1,34 @@
+.single{
+    padding: 2vh;
+}
+
+.two{
+    background-color: #3ACFC0;
+}
+
+.three img{
+    background-color: transparent;
+}
+
+.three{
+    background-color: #C288AC;
+}
+
+.single article{
+    margin-left:2vw;
+}
+
+tr .imgbox{
+    margin-top: 2vh;
+}
+
+.imgbox{
+    display: flex;
+    flex-direction: row;
+}
+
+.imgbox img{
+    padding: 1vw;
+    width: 25%;
+    background-color: transparent;
+}

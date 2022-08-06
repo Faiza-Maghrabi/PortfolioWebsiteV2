@@ -1,0 +1,31 @@
+.middle{
+    margin: auto;
+    border-spacing: 2vw 5vh;
+    border-collapse:collapse;
+}
+
+#list li{
+    background-image: url(Images/listrow.jpg);
+    height: 8vh;
+    background-repeat: no-repeat;
+}
+
+#list p::before{
+    content: "\2022";
+    color: #3ACFC0;
+    margin-right: 2vw;
+    font-weight: bold;
+}
+
+#list .sub_line p::before{
+    color: #8A90D1;
+}
+
+#list .sub_line p{
+    margin-left: 8vw;
+    font-size: 10pt;
+}
+
+#list p, #list h3{
+    margin-left: 4vw;
+}

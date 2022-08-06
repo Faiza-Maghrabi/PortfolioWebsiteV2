@@ -1,0 +1,20 @@
+.left{
+    background-color: #C0F6B7;
+    width: 100%;
+}
+
+.section_header{
+    background-color: #8A90D1;
+    color: white;
+    padding: 2vh;
+    text-align: center;
+}
+
+#Education, #Qualifications{
+    padding-top: 0;
+    border-spacing: 2vw 8vh;
+}
+
+.left ul{
+    font-size: 11pt;
+}

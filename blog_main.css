@@ -1,0 +1,48 @@
+/* Colour codes are:
+BLACK FONT: #C0F6B7 #FO9594 #3ACFC0
+WHITE FONT:  #C288AC #8A90D1*/
+
+.box {
+    display: flex;
+    flex-direction: row;
+}
+#posts{
+    width: 100%;
+    margin-right: 5vw;
+    margin-left: 1vw;
+}
+
+#posts article{
+    margin-bottom: 5vh;
+    border-radius: 5px;
+}
+
+aside{
+    text-align: right;
+    width: 30%;
+    margin-right: 1vw;
+    color: white;
+}
+
+aside nav{
+    background-color: #C288AC;
+    padding: 3vh;
+}
+
+aside section{
+    background-color: #8A90D1;
+    height: 100vh;
+    padding: 2vh;
+}
+
+.one{
+    background-color: #C0F6B7;
+}
+
+.two{
+    background-color: #3ACFC0;
+}
+
+.three{
+    background-color: #F09594;
+}
